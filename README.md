@@ -1,6 +1,6 @@
 
 ### Surge Link 
-[Surge Link](expense-tracker-by-ali-abbas.surge.sh)
+[Surge Link](https://expense-tracker-by-ali-abbas.surge.sh/)
 
 # Getting Started with Create React App
 
